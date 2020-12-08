@@ -13,8 +13,7 @@ description: >-
 
 
   We are now accepting proposals for LVC21 until  January 12, 2021. Visit our CFP page on the Connect website for more information. 
-
-
+   
   connect.linaro.org  
 location: "Virtual "
 date: 2020-12-08 07:25:37
