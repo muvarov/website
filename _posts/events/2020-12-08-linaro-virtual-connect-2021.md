@@ -1,7 +1,7 @@
 ---
 title: "Linaro Virtual Connect 2021 "
 event: lvc-21
-event_url: "connect.linaro.org "
+event_url: https://connect.linaro.org/
 description: >-
   Linaro Connect is an event that runs twice a year that brings together the Arm
   Ecosystem.
