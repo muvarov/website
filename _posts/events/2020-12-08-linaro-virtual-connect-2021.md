@@ -11,8 +11,6 @@ description: >-
 
   Due to the current climate we are running these events virtually. The next Linaro Connect will be held virtually March 23-25, 2021.
 
-
-  We are now accepting proposals for LVC21 until  January 12, 2021. Visit our CFP page on the Connect website for more information. 
    
   connect.linaro.org  
 location: "Virtual "
